@@ -3,3 +3,4 @@
 3. Engineer combat support includes all activities intended to facilitate the movement of friendly forces and impede the progress of the enemy ground operations.  
 4. It includes breaching, lifting or laying of minefields, bridging, and construction of fortifications.
 Additional engineer support 
+12345678
