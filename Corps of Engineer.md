@@ -1,0 +1,1 @@
+Military engineers are responsible for military engineering support of all army operations.
